@@ -5,8 +5,8 @@
 					"Wir gehen wann muss\nVergessen wir nicht\nWeil das Blut in uns\nRot und weiß ist",
 					"Wir kämpfen wann muss\nAuch mit jemandem\nDenn der Sieg für uns\nWert mehr als allem",
 					"Wenn du den Ball, den grünen Rasen siehst\nErfreu dich darüber\nSchrei aus vollem Hals mit aller Macht, dass:\nEh noch einen Tor ,und\nEh noch einen Winkel, und\nViel richtige Treffer\nDie Lokomotive wird weitergehen\nUnd die Punkte kommen her"
-			]
-
+			],
+          "id": 1
 		},
 		{
 			"title":"Curriculum Vitae Argutatis",
@@ -44,11 +44,13 @@
 "Sokan sírnak Shanghaiban\nCipőt cinálnak Cepelben\nHomár Hwang Hektor\nWilsonnal vehemesen verekedik\nUj, uj, uj\nListát lenget lőcsével",
 
 "Adolf vagyok, ennek vége\nAdjál munkát, szépen kérlek"
-			]
+			],
+          "id": 2
 		},
 		{
 			"title":"Male Intellecto Poeta",
-			"verses":["Látom ember, kit Hádész ver\nEztet mondja: soha már\nS hideg tél volt, én nem értem\nAdtam nektek tavaszt, hát miért\nNem fogadsz s szeretsz engem\nSzívem adtam s te elvetted\nVirágoztam s te leszedted\nZephyr voltam ugar felett"]
+			"verses":["Látom ember, kit Hádész ver\nEztet mondja: soha már\nS hideg tél volt, én nem értem\nAdtam nektek tavaszt, hát miért\nNem fogadsz s szeretsz engem\nSzívem adtam s te elvetted\nVirágoztam s te leszedted\nZephyr voltam ugar felett"],
+          "id": 3
 		},
 		{
 			"title":"Bistey Homeo",
@@ -82,7 +84,8 @@
 "Ha te operálást vezetsz\nKés alá, bíz én, befekszem",
 
 "Ojojoj, no homo"
-			]
+			],
+          "id":4
 		},
 		{
 			"title": "Magna Charybdis I - Ulrach I",
@@ -104,7 +107,8 @@
 
 "Lesüllyedt az ő szintjére\nIsa fején vert ott fészket\nPont szívéig nem ért az el\nCsiriplését nem szívta fel\nS egy bölcsnek lakhelyére\nElküldte őt, fel Lipcsébe"
 
-			]
+			],
+          "id":5
 		},
 		{
 			"title": "Magna Charybdis I - Göttinga",
@@ -117,7 +121,8 @@
 "Nagy Charybdis hajdan észleli\nJaj, miért most lő a gaz? \nNagy csapongás meccset fékezi\nJaj, vajon mi lehet az? ",
 
 "Tán szurkolók bömbölnek\nIly nagy hangerővel? \nVagy csupán német sört vett\nMagához több merővel"
-			]
+			],
+          "id":6
 		},
 		{
 			"title": "Magna Charybdis I - Pokol",
@@ -131,7 +136,8 @@
  "Arcon csúlja, nem kímléli,\nEzt a helyet ő érdemli\nMielőtt még továbbállna\nArcon üti, s mondja: 'málna'",
 
 "Sok veszély közt Nagy Charybdis\nHelyét állta, nem kis pisis\nIsteneket kiengesztelt\nŐ holnap Lipcsében kellt fel"
-			]
+			],
+          "id":7
 		},
 		{
 			"title": "Magna Charybdis I - Lipcse I",
@@ -155,7 +161,8 @@
 "Második Bongerlóról szólott\nKi Németföldet pokollá avanzsált\nŐtet erőszakkal váltott, holott\nDiktatúra vált az alappá",
 
 "Bölcs Treßan Berlinbe küldi,\nBongerló ott állásozik\nŐ tudta Nagy Charybdis elűzi\nMégis óvakodva álmodik"
-			]
+			],
+          "id":8
 		},
 		{
 			"title": "Magna Charybdis I - Berlin I",
@@ -179,7 +186,8 @@
 "Szóljunk hát nagy Charybdisről\nEgyedül nem egyszer győzött\nEzen ellenfél hozzá illő\nHáborúban soha nem bőgött",
 
 "Így hát tavasz haván\nKét ellenség szembe állt\nA nagy diktatúra véget talál\nVagy németföld régi nem valál?"
-			]
+			],
+          "id":9
 		},
 		{
 			"title": "Magna Charybdis I - Berlin II",
@@ -203,7 +211,8 @@
 "Nagy Charybdis dühvel tele\nLerohaná ellenséget\nS Bongerlót elvezetve\nDicső győzelmet ünnepelhet",
 
 "A trón ismét a Bölcsé\nMajd Lipcsébe visszamenvén\nHogy hírelje örömhírét:\n'A trón ismét a Bölcsé!'"
-			]
+			],
+          "id":10
 		},
 		{
 			"title": "Magna Charybdis I - Lipcse II",
@@ -215,7 +224,8 @@
 "Búcsú szók, az utolsók\nLehet többé nem látja\nTreßan szívén nagy foltok\nVad Hőst veszít, jó társa",
 
 "Nagy bánatban, fájdalomban\nSchwarzes Torhoz veszi botját\nIstenekhez megy Athénba\nBefejezvén földi útját"
-			]
+			],
+          "id":11
 		},
 		{
 			"title": "Magna Charybdis I - Athén",
@@ -239,7 +249,8 @@
 "Istenek őt gyűlölhetik,\nhős tetteit kinevetik.\nNem lesz ő a Pantheonban,\nbárcsak el se jött amonnan",
 
 "Nagy Charybdis megindula,\nBölcs Treßanhoz nekifuta.\nSzíve telve nagy búsággal\nLipcse fele lassan vágtat"
-			]
+			],
+          "id": 12
 		},
 		{
 			"title": "Magna Charybdis I - Lipcse III",
@@ -253,7 +264,8 @@
 "Kérdi, mi volt hogy történt\nIstenek őt elvitték?\nNagy Charybdis megy, tüstént\nBongerlóék megölték",
 
 "De gyorsan két rossz hír\nTudja mit tesz Treßanért\nUlrachba megy ottan sír\nVisszavonult, itt a vég"
-			]
+			],
+          "id": 13
 		},
 		{
 			"title": "Magna Charybdis I - Ulrach II",
@@ -261,7 +273,8 @@
 "Istáplója országunknak\nTámadóját, mint a ruha\nTrierben felakasztotta,\nAranykorát alapozta.\nVégezetül ez városban\nÉpült képe egy szoborban.\nGondosan ő megvizsgálva\nEngem mondott főispánnak.",
 
 "Fiam végül mondom neked:\nUgarból te fontos lehetsz\nSegélykérést félrerakod\nS kijelentést nem hallgatod.\nEkkor Olümposzról mégis\nLő segítség, nem is késik.\nVigyázz, isten kinevethet,\nÉlj tőlle hát igen messze.\nLesz ajándék nem keseredsz.\nEl ne felejtsd mondom neked!"
-			]
+			],
+          "id": 14
 		},
 		{
 			"title": "Add a magyart!",
@@ -271,7 +284,8 @@
 "A kémia nem jó nékem\nFizikáért elcserélte\nHiányzik Sárának a töri\nSzívet ez nagy bánat töri\nFizettséged csokibár,\nNeked adom vacsorám. :(\nKaphatsz akár FIFA-t is\nFizettséged legális :(",
 
 "Csak te vagy én menedékem\nKulcsár, csakis téged kérlek:\nMagyarral ne kínozz minket\nCseréld el hát, szépen kérlek :)"
-			]
+			],
+          "id": 15
 		},
 		{
 			"title":"Szerb függőség",
@@ -281,7 +295,8 @@
 "Fél perc allatt ott egy masszőr\nJelent meg az álmaimban\nMajd lelőtte egy Cseh vadőr\nKinek voltam váraiban",
 
 "Bumm és vége, többé nincsen\nSzerb drog áldozati minden\nIdegrendszer: er hat finden\nUtaztam, így kaptam mindezt"
-			]
+			],
+          "id": 16
 		},
 		{
 			"title":"Hétfő",
@@ -289,7 +304,8 @@
 "Húsvét hétfőre egy hétre\nTavasz szünet végét érte\nTanároknak nincs jobb dolga\nDogát irat aznap Hilda\nMemoriter? az is lehet\nKulcsár mondta az is mehet\nKedd, szerda, csütörtök nincsen\nAznap írunk tehát mindent",
 
 "Biosz TZ, mi az nekem?\nNem figyelek több száz hete\nPótló dogát irat Hajnal\nLehet mi is szívunk azzal\nPPT kell angolra ,hát\nChat CPT mondta Király\nKönyörgünk, de hiába mind\nHisz feladta a Bánk Bánt is"
-			]
+			],
+          "id": 17
 		},
 		{
 			"title":"Luxemburg",
@@ -303,13 +319,15 @@
 "Jön a b terv BVSC\nNem jobb mint a DVSC\nMátyás tudja igen jól\nSírva mondja: Luxemburg!",
 
 "Országot irányítanék\nHa Mátyás felocsudék\nElfogadná Luxemburg nincsen\nOrszágot mondj, édes kincsem"
-			]
+			],
+          "id": 18
 		},
 		{
 			"title":"Múzsai poézis",
 			"verses":[
 				"Szél sodorja, szél zihálja a szőrös lyukam\nA foscsíknak barnaságain találom utam"
-			]
+			],
+          "id": 19
 		},
 		{
 			"title":"Barnabia Hymnia",
@@ -319,7 +337,8 @@
 "Lénárd dobta a labdát\nBarna rámért pörgő rúgást.",
 
 "Mivel Misi gyenge volt,\nVére ottan majd kifolyt."
-			]
+			],
+          "id": 20
 		},
 		{
 			"title":"Kölcs-ei",
@@ -329,7 +348,8 @@
 "Hová tűnt a vad neved,\nMegvan még a vakbeled?\nKölcs nekem hát mei\nSzép, ei, ei, ei\nNagy Charybdis kettő nincsen\nKezdj el írni édes kincsem\nKölcs nekem hát mei\nSzép, ei, ei, ei",
 
 "Műveid most kicsit furák\nHa nem költesz, marad Dzsudzsák!\nKölcs nekem hát mei\nSzép, ei, ei, ei"
-			]
+			],
+          "id": 21
 		},
 		{
 			"title":"Schönberg macskája",
@@ -345,7 +365,8 @@
 "Meglátta ezt Schönberg\nMacskáját megölte\nFájt a szíve nagyon\nSzörme ott az asztalon",
 
 "S jő a csoda meg Lipcsébe\nEgy alak jő ki ingében\nMacskáját átadja, kacsint\nNevét mondja: Nagy Charybdis"
-			]
+			],
+          "id": 22
 		},
 		{
 			"title":"Macsekus Pitecus",
@@ -353,7 +374,8 @@
 "Hátra nézett,\nMit is képzelt\nFehér szőrén bolha ugrik\nSötét háttér előtt bújék",
 
 "Gazda szagát érezvén\nTüstén’ fogja, s körbenéz,\nÜtve vala szegény macsek\nAlant fekszik ott a Nagy eb."
-			]
+			],
+          "id": 23
 		},
 		{
 			"title":"Barnabia Hymnia",
@@ -363,6 +385,7 @@
 "Lénárd dobta a labdát\nBarna rámért pörgő rúgást.",
 
 "Mivel Misi gyenge volt,Vére ottan majd kifolyt."
-			]
+			],
+          "id": 24
 		}
 ]

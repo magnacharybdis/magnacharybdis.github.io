@@ -10,26 +10,14 @@ import {NavbarWithSubmenu} from "./NavBar";
 import Navbar from "./navbar";
 import Vers from "./Vers";
 import Meme from "./Meme";
+import Footer from "./Footer";
 
 function App() {
   return (
     <div className="App">
         <div>
-              <Navbar></Navbar>
-            {/*<nav>
-                  <ul id="navigation">
-                      <li>
-                          <Link to="/">Home</Link>
-                      </li>
-                      <li>
-                          <Link to="/about">About</Link>
-                      </li>
-                      <li>
-                          <Link to="/contact">Contact</Link>
-                      </li>
-                  </ul>
-              </nav>*/}
-          </div>
+            <Navbar></Navbar>
+        </div>
         <Routes>
             <Route path={"/"} element={<Home></Home>}></Route>
             <Route path="/vers" element={<Vers></Vers>}></Route>
@@ -37,6 +25,7 @@ function App() {
             <Route path="/about" element={<About></About>}></Route>
             <Route path="*" element={<ErrPage />} />
         </Routes>
+        <Footer></Footer>
     </div>
   );
 }

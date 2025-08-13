@@ -49,8 +49,7 @@ function SideBar() {
         <>
             <aside
                 className={`fixed top-16 bottom-0 left-0 w-64 bg-gray-800 text-gray-200 p-4 overflow-y-auto transform transition-transform duration-200 lg:translate-x-0 ${
-                    sidebarOpen ? "translate-x-0" : "-translate-x-full"
-                }`}
+                    sidebarOpen ? "translate-x-0" : "-translate-x-full"}`}
             >
                 <ul className="space-y-2">
                     {ps.map((poem, index) => (
@@ -90,7 +89,7 @@ class Vers extends React.Component {
                 {ps.map((item,upperindex) => (
                     <section key={upperindex} id={String(upperindex)} className="scroll-mt-20">
                         <h2 className="text-2xl font-bold mb-4">{item.title}</h2>
-                        <p className="text-gray-600">
+                        <p className="text-gray-300">
                             <div>
                                 {getVerses(item).map((verse, index) => (
                                     <span key={index} className="block mb-2">

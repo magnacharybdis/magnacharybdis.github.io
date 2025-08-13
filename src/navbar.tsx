@@ -18,7 +18,7 @@ const Navbar: React.FC = () => {
     ];
 
     return (
-        <nav className="fixed top-0 left-0 right-0 bg-white shadow-md px-6 py-3 flex items-center justify-between h-16">
+        <nav className="fixed top-0 left-0 right-0 bg-[#181a1b] shadow-md px-6 py-3 flex items-center justify-between h-16">
             {/* Left section: Logo + Nav Links */}
             <div className="flex items-center space-x-6">
                 {/* Logo */}
@@ -27,7 +27,7 @@ const Navbar: React.FC = () => {
                 </div>
 
                 {/* Desktop Nav */}
-                <ul className="hidden md:flex space-x-6 text-gray-700 font-medium">
+                <ul className="hidden md:flex space-x-6 text-gray-500 font-medium">
                     {tabs.map((tab) => (
                         <li key={tab.name}>
                             <NavLink
@@ -50,7 +50,7 @@ const Navbar: React.FC = () => {
             {/* Search Bar */}
             <form
                 onSubmit={handleSearch}
-                className="hidden sm:flex items-center bg-gray-100 rounded-lg px-3 py-1"
+                className="hidden sm:flex items-center bg-[#1e2022] rounded-lg px-3 py-1"
             >
                 <input
                     type="text"

@@ -15,16 +15,16 @@ import Footer from "./Footer";
 function App() {
   return (
     <div className="App">
-        <div>
-            <Navbar></Navbar>
+        <Navbar></Navbar>
+        <div className="pt-16">
+            <Routes>
+                <Route path={"/"} element={<Home></Home>}></Route>
+                <Route path="/vers" element={<Vers></Vers>}></Route>
+                <Route path="/meme" element={<Meme></Meme>}></Route>
+                <Route path="/about" element={<About></About>}></Route>
+                <Route path="*" element={<ErrPage />} />
+            </Routes>
         </div>
-        <Routes>
-            <Route path={"/"} element={<Home></Home>}></Route>
-            <Route path="/vers" element={<Vers></Vers>}></Route>
-            <Route path="/meme" element={<Meme></Meme>}></Route>
-            <Route path="/about" element={<About></About>}></Route>
-            <Route path="*" element={<ErrPage />} />
-        </Routes>
         <Footer></Footer>
     </div>
   );

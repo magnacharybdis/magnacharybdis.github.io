@@ -8,6 +8,7 @@ const Navbar: React.FC = () => {
 
     const handleSearch = (e: React.FormEvent) => {
         e.preventDefault();
+
         console.log("Keresés", searchTerm);
     };
 

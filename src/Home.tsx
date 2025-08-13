@@ -9,7 +9,7 @@ class Home extends React.Component {
             <div className="App">
                 <header className="App-header">
                     <p className="App-title">
-                        CsWM Wiki
+                        Csokonay Witéz Misi
                     </p><br/>
                     <p className={"text-gray-200"}><i>"A magyar felvilágosodáskori irodalom egyik legjelentősebb költője.<br/>Tanárai a jövő tudósaként emlegették."</i></p>
                 </header>

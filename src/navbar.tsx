@@ -3,7 +3,6 @@ import { Search, Menu, X } from "lucide-react";
 import {NavLink} from "react-router-dom";
 
 const Navbar: React.FC = () => {
-    const [activeTab, setActiveTab] = useState("Home");
     const [searchTerm, setSearchTerm] = useState("");
     const [menuOpen, setMenuOpen] = useState(false);
 

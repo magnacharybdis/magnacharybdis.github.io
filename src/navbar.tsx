@@ -79,8 +79,8 @@ const Navbar: React.FC = () => {
 
             {/* Mobile Menu Dropdown */}
             {menuOpen && (
-                <div className="absolute top-14 left-0 w-full bg-white shadow-md md:hidden p-4">
-                    <ul className="space-y-4 text-gray-700 font-medium">
+                <div className="absolute top-14 left-0 w-full bg-[#181a1b] shadow-md md:hidden p-4">
+                    <ul className="space-y-4 text-gray-500 font-medium">
                         {tabs.map((tab) => (
                             <li key={tab.name}>
                                 <NavLink
@@ -103,7 +103,7 @@ const Navbar: React.FC = () => {
                     {/* Search in mobile menu */}
                     <form
                         onSubmit={handleSearch}
-                        className="mt-4 flex items-center bg-gray-100 rounded-lg px-3 py-1"
+                        className="mt-4 flex items-center bg-[#1e2022] rounded-lg px-3 py-1"
                     >
                         <input
                             type="text"

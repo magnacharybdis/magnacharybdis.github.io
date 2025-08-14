@@ -13,7 +13,7 @@ class Vers extends React.Component {
         return (
             <>
                 <SideBar poems={allPoems}></SideBar>
-                <div style={divStyle}>
+                <div className={"lg:pl-64"} style={divStyle}>
                     <h1 className="text-7xl"><b>CsWM Versek</b></h1>
                     <main>
                         <p><i>Hányóvödör használata ajánlott</i></p>

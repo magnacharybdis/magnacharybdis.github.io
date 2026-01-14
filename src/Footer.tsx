@@ -13,7 +13,8 @@ class Footer extends React.Component {
                     {/* Social Media Links */}
                     <div className="flex space-x-6">
                         <a
-                            href="https://twitter.com/elekmathe"
+                            //href="https://twitter.com/elekmathe"
+                            href="https://twitter.com/theCsWM"
                             target="_blank"
                             rel="noopener noreferrer"
                             aria-label="Twitter"

@@ -10,14 +10,14 @@ import Footer from "./Footer";
 import PoemBrowser from "./PoemBrowser";
 import SimplePoem from "./SimplePoem";
 import FullPoem from "./FullPoem";
-import {allPoems, bestPoems, mch1Poems, mch2Poems, worstPoems} from "./poem";
+import {allPoems, bestPoems, mch1Poems, mch2Poems, tressanPoems, worstPoems} from "./poem";
 import SinglePoem from "./SinglePoem";
 
 function App() {
   return (
     <div className="App">
         <Navbar></Navbar>
-        <div className="pt-16">
+        <div className="pt-16 mx-8">
             <Routes>
                 <Route path={"/"} element={<Home></Home>}></Route>
                 <Route path="/meme" element={<Meme></Meme>}></Route>
@@ -27,6 +27,7 @@ function App() {
                 <Route path="/poems" element={<FullPoem title={"CsWM Versek"} poems={allPoems}></FullPoem>}></Route>
                 <Route path="/mch1" element={<FullPoem title={"Magna Charybdis I"} poems={mch1Poems}></FullPoem>}></Route>
                 <Route path="/mch2" element={<FullPoem title={"Magna Charybdis II"} poems={mch2Poems}></FullPoem>}></Route>
+                <Route path="/tressan" element={<FullPoem title={"Treßan"} poems={tressanPoems}></FullPoem>}></Route>
                 <Route path="/best" element={<FullPoem title={"Legjobb CsWM művek"} poems={bestPoems}></FullPoem>}></Route>
                 <Route path="/worst" element={<FullPoem title={"Legrosszabb CsWM művek"} poems={worstPoems}></FullPoem>}></Route>
                 <Route path="/poem/:poem" element={<SinglePoem></SinglePoem>}></Route>

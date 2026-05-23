@@ -2,10 +2,11 @@ import React from "react";
 import './poembrowser.css'
 import cswm from './images/img.png'
 import cswmflip from './images/flipimg.png'
+import tressan from './images/tressan_tanar.jpg'
 import mch from './images/charybdis.png'
 import mch2 from './images/mch2.jpg'
-import uv1 from './images/ulrachv1.jpg'
-import uv2 from './images/ulrachv2.jpg'
+import uv1 from './images/julcsa.jpg'
+import uv2 from './images/whispercarlo.jpg'
 import zephyr from './images/zepyr.jpg'
 import {NavLink} from "react-router-dom";
 import {allPoems} from "./poem";
@@ -45,6 +46,7 @@ export default class EveryPoem extends React.Component {
                 <Category link={"/poemroute"} title={"CsWM Vers kereső"} description={"CsWM versek cím alapján"} img={uv2}/>
                 <Category link={"/mch1"} title={"Magna Charybdis I"} description={"Nagy Charybdis kalandjai"} img={mch}/>
                 <Category link={"/mch2"} title={"Magna Charybdis II"} description={"Nagy Charybdis kalandjai, immár Schibzi társaságában"} img={mch2}/>
+                <Category link={"/tressan"} title={"Treßan"} description={"Treßan háttértörténete"} img={tressan}/>
                 <Category link={`/poem/${allPoems[Math.floor(Math.random()*allPoems.length)].title}`} title={"Random Vers"} description={""} img={zephyr}/>
             </div>
         </div>;
